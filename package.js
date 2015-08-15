@@ -1,13 +1,13 @@
 Package.describe({
     'summary': 'StackSlide effect for s-alert - simple and fancy notifications / alerts for Meteor.',
-    'version': '1.1.3',
+    'version': '1.1.4',
     'git': 'https://github.com/juliancwirko/meteor-s-alert-stackslide.git',
     'name': 'juliancwirko:s-alert-stackslide'
 });
 
 Package.onUse(function (api) {
-    api.use('juliancwirko:s-alert@2.4.0', ['client']);
-    api.imply('juliancwirko:s-alert@2.4.0', ['client']);
+    api.use('juliancwirko:s-alert@2.4.2', ['client']);
+    api.imply('juliancwirko:s-alert@2.4.2', ['client']);
     api.addFiles([
         's-alert-stackslide.css'
     ], 'client');
