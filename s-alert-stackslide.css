@@ -29,10 +29,6 @@
     background: #fff;
 }
 
-.s-alert-effect-stackslide.s-alert-left-top.s-alert-show,
-.s-alert-effect-stackslide.s-alert-right-top.s-alert-show,
-.s-alert-effect-stackslide.s-alert-left-top.s-alert-hide,
-.s-alert-effect-stackslide.s-alert-right-top.s-alert-hide,
 .s-alert-top-left.s-alert-effect-stackslide.s-alert-show,
 .s-alert-top-right.s-alert-effect-stackslide.s-alert-show,
 .s-alert-top-left.s-alert-effect-stackslide.s-alert-hide,
@@ -55,10 +51,6 @@
     100% { -webkit-transform: translate3d(0,0,0); transform: translate3d(0,0,0); }
 }
 
-.s-alert-effect-stackslide.s-alert-left-bottom.s-alert-show,
-.s-alert-effect-stackslide.s-alert-right-bottom.s-alert-show,
-.s-alert-effect-stackslide.s-alert-left-bottom.s-alert-hide,
-.s-alert-effect-stackslide.s-alert-right-bottom.s-alert-hide,
 .s-alert-bottom-left.s-alert-effect-stackslide.s-alert-show,
 .s-alert-bottom-right.s-alert-effect-stackslide.s-alert-show,
 .s-alert-bottom-left.s-alert-effect-stackslide.s-alert-hide,
